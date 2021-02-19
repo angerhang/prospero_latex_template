@@ -1,0 +1,1 @@
+# prospero_latex_template
